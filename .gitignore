@@ -1,0 +1,18 @@
+#ici, ce sont les fichiers qui ne doivent pas être enregisté dans le dépôt qu'on met ici, par exemple Les fichiers temporaires créés par votre éditeur (VSCode, NetBeans…)
+
+#🔹 Les fichiers de configuration personnels
+
+#🔹 Les modules ou dépendances (ex : node_modules/)
+
+#🔹 Les fichiers générés automatiquement (build, logs…)
+
+#🔹 Les mots de passe ou clés secrètes (⚠️ à ne jamais mettre dans Git)
+# Fichiers système
+.DS_Store
+Thumbs.db
+Dossiers de l'éditeur
+.vscode/
+.idea/
+# Fichiers temporaires
+*.log
+*.tmp
